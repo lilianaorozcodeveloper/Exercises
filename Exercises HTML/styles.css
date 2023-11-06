@@ -1,0 +1,32 @@
+*{
+    background-color:blanchedalmond
+}
+
+#personal-photo{
+    width: 160px;
+    height: 250px;
+}
+
+h1,h2,h3 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ul{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ol{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+dl{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+dt{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
